@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <PublishUrlHistory>\\KANKU250\kanku\関西空港支社-共通\関空事務所\勤務管理システム自動入力\|\\Osaka250\osaka\大阪支社-関空営業所\関空事務所\勤務管理システム自動入力\|C:\Users\daisuke_kawaguchi\Desktop\|\\Cyubu11\自動化システム\|C:\Documents and Settings\tatsuro_yamazaki\デスクトップ\</PublishUrlHistory>
+    <InstallUrlHistory>
+    </InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>\\Cyubu11\自動化システム\|\\Cyubu9\共有\勤務管理予定入力プログラム\</UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+    <FallbackCulture>ja-JP</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>

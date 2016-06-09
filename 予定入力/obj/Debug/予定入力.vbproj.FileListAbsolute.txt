@@ -1,0 +1,45 @@
+C:\Documents and Settings\tatsuro_yamazaki\My Documents\Visual Studio 2008\Projects\予定入力\予定入力\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\tatsuro_yamazaki\My Documents\Visual Studio 2008\Projects\予定入力\予定入力\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\tatsuro_yamazaki\My Documents\Visual Studio 2008\Projects\予定入力\予定入力\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\tatsuro_yamazaki\My Documents\Visual Studio 2008\Projects\予定入力\予定入力\obj\Debug\予定入力.vbproj.GenerateResource.Cache
+C:\Documents and Settings\tatsuro_yamazaki\My Documents\Visual Studio 2008\Projects\予定入力\予定入力\obj\Debug\WindowsApplication1.Form2.resources
+C:\Documents and Settings\tatsuro_yamazaki\My Documents\Visual Studio 2008\Projects\予定入力\予定入力\obj\Debug\WindowsApplication1.frm打ち分け.resources
+C:\Documents and Settings\tatsuro_yamazaki\My Documents\Visual Studio 2008\Projects\予定入力\予定入力\obj\Debug\WindowsApplication1.frm法定外実地教育.resources
+C:\Documents and Settings\tatsuro_yamazaki\My Documents\Visual Studio 2008\Projects\予定入力\予定入力\obj\Debug\WindowsApplication1.設定フォーム.resources
+C:\Documents and Settings\tatsuro_yamazaki\My Documents\Visual Studio 2008\Projects\予定入力\予定入力\bin\Debug\ZEN AutoKinmu.exe.config
+C:\Documents and Settings\tatsuro_yamazaki\My Documents\Visual Studio 2008\Projects\予定入力\予定入力\bin\Debug\ZEN AutoKinmu.exe.manifest
+C:\Documents and Settings\tatsuro_yamazaki\My Documents\Visual Studio 2008\Projects\予定入力\予定入力\bin\Debug\ZEN AutoKinmu.application
+C:\Documents and Settings\tatsuro_yamazaki\My Documents\Visual Studio 2008\Projects\予定入力\予定入力\bin\Debug\ZEN AutoKinmu.exe
+C:\Documents and Settings\tatsuro_yamazaki\My Documents\Visual Studio 2008\Projects\予定入力\予定入力\bin\Debug\ZEN AutoKinmu.pdb
+C:\Documents and Settings\tatsuro_yamazaki\My Documents\Visual Studio 2008\Projects\予定入力\予定入力\bin\Debug\ZEN AutoKinmu.xml
+C:\Documents and Settings\tatsuro_yamazaki\My Documents\Visual Studio 2008\Projects\予定入力\予定入力\obj\Debug\ZEN AutoKinmu.TrustInfo.xml
+C:\Documents and Settings\tatsuro_yamazaki\My Documents\Visual Studio 2008\Projects\予定入力\予定入力\obj\Debug\ZEN AutoKinmu.exe.manifest
+C:\Documents and Settings\tatsuro_yamazaki\My Documents\Visual Studio 2008\Projects\予定入力\予定入力\obj\Debug\ZEN AutoKinmu.application
+C:\Documents and Settings\tatsuro_yamazaki\My Documents\Visual Studio 2008\Projects\予定入力\予定入力\obj\Debug\ZEN AutoKinmu.exe
+C:\Documents and Settings\tatsuro_yamazaki\My Documents\Visual Studio 2008\Projects\予定入力\予定入力\obj\Debug\ZEN AutoKinmu.xml
+C:\Documents and Settings\tatsuro_yamazaki\My Documents\Visual Studio 2008\Projects\予定入力\予定入力\obj\Debug\ZEN AutoKinmu.pdb
+C:\Documents and Settings\tatsuro_yamazaki\My Documents\Visual Studio 2008\Projects\予定入力\予定入力\obj\Debug\WindowsApplication1.frm入力.resources
+C:\川口　大輔\【山崎主任】引継ぎ関係201502\Visual Studio 2008\Projects\予定入力\予定入力\bin\Debug\ZEN AutoKinmu.exe.config
+C:\川口　大輔\【山崎主任】引継ぎ関係201502\Visual Studio 2008\Projects\予定入力\予定入力\obj\Debug\ZEN AutoKinmu.exe
+C:\川口　大輔\【山崎主任】引継ぎ関係201502\Visual Studio 2008\Projects\予定入力\予定入力\obj\Debug\ZEN AutoKinmu.xml
+C:\川口　大輔\【山崎主任】引継ぎ関係201502\Visual Studio 2008\Projects\予定入力\予定入力\obj\Debug\ZEN AutoKinmu.pdb
+C:\川口　大輔\【山崎主任】引継ぎ関係201502\Visual Studio 2008\Projects\予定入力\予定入力\obj\Debug\WindowsApplication1.Form1.resources
+C:\川口　大輔\【山崎主任】引継ぎ関係201502\Visual Studio 2008\Projects\予定入力\予定入力\obj\Debug\WindowsApplication1.Form2.resources
+C:\川口　大輔\【山崎主任】引継ぎ関係201502\Visual Studio 2008\Projects\予定入力\予定入力\obj\Debug\WindowsApplication1.frm打ち分け.resources
+C:\川口　大輔\【山崎主任】引継ぎ関係201502\Visual Studio 2008\Projects\予定入力\予定入力\obj\Debug\WindowsApplication1.frm法定外実地教育.resources
+C:\川口　大輔\【山崎主任】引継ぎ関係201502\Visual Studio 2008\Projects\予定入力\予定入力\obj\Debug\WindowsApplication1.frm入力.resources
+C:\川口　大輔\【山崎主任】引継ぎ関係201502\Visual Studio 2008\Projects\予定入力\予定入力\obj\Debug\WindowsApplication1.Resources.resources
+C:\川口　大輔\【山崎主任】引継ぎ関係201502\Visual Studio 2008\Projects\予定入力\予定入力\obj\Debug\WindowsApplication1.設定フォーム.resources
+C:\川口　大輔\【山崎主任】引継ぎ関係201502\Visual Studio 2008\Projects\予定入力\予定入力\obj\Debug\予定入力.vbproj.GenerateResource.Cache
+C:\川口　大輔\【山崎主任】引継ぎ関係201502\Visual Studio 2008\Projects\予定入力\予定入力\bin\Debug\ZEN AutoKinmu.exe.manifest
+C:\川口　大輔\【山崎主任】引継ぎ関係201502\Visual Studio 2008\Projects\予定入力\予定入力\bin\Debug\ZEN AutoKinmu.application
+C:\川口　大輔\【山崎主任】引継ぎ関係201502\Visual Studio 2008\Projects\予定入力\予定入力\bin\Debug\ZEN AutoKinmu.exe
+C:\川口　大輔\【山崎主任】引継ぎ関係201502\Visual Studio 2008\Projects\予定入力\予定入力\bin\Debug\ZEN AutoKinmu.pdb
+C:\川口　大輔\【山崎主任】引継ぎ関係201502\Visual Studio 2008\Projects\予定入力\予定入力\bin\Debug\ZEN AutoKinmu.xml
+C:\川口　大輔\【山崎主任】引継ぎ関係201502\Visual Studio 2008\Projects\予定入力\予定入力\obj\Debug\ZEN AutoKinmu.TrustInfo.xml
+C:\川口　大輔\【山崎主任】引継ぎ関係201502\Visual Studio 2008\Projects\予定入力\予定入力\obj\Debug\ZEN AutoKinmu.exe.manifest
+C:\川口　大輔\【山崎主任】引継ぎ関係201502\Visual Studio 2008\Projects\予定入力\予定入力\obj\Debug\ZEN AutoKinmu.application
+C:\Users\tatsuro_yamazaki\Documents\Visual Studio 2008\Projects\予定入力\予定入力\bin\Debug\ZEN AutoKinmu.exe.config
+C:\Users\tatsuro_yamazaki\Documents\Visual Studio 2008\Projects\予定入力\予定入力\obj\Debug\ZEN AutoKinmu.exe
+C:\Users\tatsuro_yamazaki\Documents\Visual Studio 2008\Projects\予定入力\予定入力\obj\Debug\ZEN AutoKinmu.xml
+C:\Users\tatsuro_yamazaki\Documents\Visual Studio 2008\Projects\予定入力\予定入力\obj\Debug\ZEN AutoKinmu.pdb

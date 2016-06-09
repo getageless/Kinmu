@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xrml="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <assemblyIdentity name="ZEN AutoKinmu.application" version="1.0.0.168" publicKeyToken="0000000000000000" language="ja-JP" processorArchitecture="msil" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <description asmv2:publisher="山崎達郎" asmv2:product="ZEN AutoKinmu" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <deployment install="true" mapFileExtensions="true" co.v1:createDesktopShortcut="true">
+    <subscription>
+      <update>
+        <beforeApplicationStartup />
+      </update>
+    </subscription>
+    <deploymentProvider codebase="file://kanku250/kanku/%E9%96%A2%E8%A5%BF%E7%A9%BA%E6%B8%AF%E6%94%AF%E7%A4%BE-%E5%85%B1%E9%80%9A/%E9%96%A2%E7%A9%BA%E4%BA%8B%E5%8B%99%E6%89%80/%E5%8B%A4%E5%8B%99%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E8%87%AA%E5%8B%95%E5%85%A5%E5%8A%9B/ZEN%20AutoKinmu.application" />
+  </deployment>
+  <dependency>
+    <dependentAssembly dependencyType="install" codebase="ZEN AutoKinmu.exe.manifest" size="4536">
+      <assemblyIdentity name="ZEN AutoKinmu.exe" version="1.0.0.168" publicKeyToken="0000000000000000" language="ja-JP" processorArchitecture="msil" type="win32" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>UV8WefLOp7Y8ysMp+6ysv26nQ0M=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+</asmv1:assembly>
